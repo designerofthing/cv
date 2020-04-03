@@ -1,2 +1,3 @@
 # cv
-basic cv website with css, pushed to a repo.
+basic cv website, just html, pushed to a github repo.
+https://designerofthing.github.io/cv/
